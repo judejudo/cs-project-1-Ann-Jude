@@ -17,6 +17,6 @@ class Slope(MDApp):
     
 
 if __name__ == "__main__":
-    LabelBase.register(name="MPoppins", fn_regular="C:\\xammp\\htdocs\\authSystem\\Poppins\\Poppins-Medium.ttf")
-    LabelBase.register(name="MPoppins", fn_regular="C:\\xammp\\htdocs\\authSystem\\Poppins\\Poppins-SemiBold.ttf")
+    LabelBase.register(name="MPoppins", fn_regular="Poppins\Poppins-Medium.ttf")
+    LabelBase.register(name="MPoppins", fn_regular="Poppins\Poppins-SemiBold.ttf")
     Slope().run()
